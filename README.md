@@ -12,7 +12,7 @@ _DietManager is an easy program to manage diets with emphasis on software testin
 
 ## Installation
 Clone this project directly using:<br /> 
-` git clone https://github.com/Dankni95/ITP2200-2021.git `<br /> 
+` git clone https://github.com/harryapp/ITP2200-Introduction-to-Software-Testing-exam `<br /> 
 Import maven dependencies if asked.
 ### Manual installation
 1. Unzip the DietManager project
